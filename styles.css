@@ -77,6 +77,10 @@
     margin-top: auto;
 }
 
+.work__external{
+    text-decoration: none;
+}
+
 /*ABOUT STYLES*/
 .about-section{
     margin-top: 3rem;
